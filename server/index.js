@@ -26,6 +26,9 @@ app.use(express.json()); // Body parser
 app.use(express.urlencoded({ extended: false })); // url encoded
 
 // routes
+app.get("/", (req, res) => {
+  message: "HEllo!";
+});
 app.use("/user", userRoute);
 app.use("/admin", adminRoute);
 app.use("/refresh-token", refreshRoute);
