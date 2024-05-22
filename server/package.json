@@ -22,7 +22,8 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.2.2",
     "morgan": "^1.10.0",
-    "razorpay": "^2.9.2"
+    "razorpay": "^2.9.2",
+    "vercel": "^34.2.0"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
