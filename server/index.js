@@ -14,7 +14,7 @@ const paymentRoute = require("./routes/Payment_orderRoute");
 const searchRoute = require("./routes/searchRoute");
 const subscriptionRoute = require("./routes/subscriptionRoute");
 const movieRoute = require("./routes/movieRoute");
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 3000;
 connectDb();
 
 const app = express();
@@ -27,7 +27,7 @@ app.use(express.urlencoded({ extended: false })); // url encoded
 
 // routes
 app.get("/", (req, res) => {
-  message: "HEllo!";
+  res.send("Hello World!");
 });
 app.use("/user", userRoute);
 app.use("/admin", adminRoute);
