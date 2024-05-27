@@ -43,3 +43,11 @@ OpenSoft Movie Database is a cutting-edge web application designed to revolution
 1. Clone the repository:
    ```bash
    git clone https://github.com/ping-72/KGP_PLAY/
+
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-072075228/)
+
+
