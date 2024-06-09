@@ -1,5 +1,11 @@
 # [KGP_PLAY](https://kgp-play-frontend.vercel.app/)
 
+##Deployed
+Frontend - https://kgp-play-frontend.vercel.app/
+Backend - https://kgp-play-git-main-princes-projects-1842cd2f.vercel.app/
+<br/>
+<br/>
+
 
 KGP_PLAY is a cutting-edge web application designed to revolutionize the way users explore and enjoy movies. Powered by MongoDB Atlas Search, this platform combines advanced search functionalities with an immersive video playback experience.
 
